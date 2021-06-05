@@ -16,6 +16,7 @@
     <li>From project root folder open the <b>.env</b> file and edit the variable <b>DB_DATABASE</b> with your created empty database name.
     Set DB_USERNAME and DB_PASSWORD accroding to your xampp user credentials</li>
     <li>Now again go to project folder and open a shell window there. You can use Command Prompt, or any other shell command tool</li>
+    <li>First Run  'composer install' command</li>
     <li>Now type <b>php artisan multiauth:install</b> and hit enter. This will install admin authentication</li>
     <li>Then type <b>php artisan migrate</b> and hit enter</li>
     <li>Then type <b>php artisan db:seed</b> and hit enter</li>
