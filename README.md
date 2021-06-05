@@ -3,7 +3,7 @@
 <br>
 <h4><b>Software Requirements</b></h4>
 <ul>
-    <li>Xampp With PHP 7.4</li>
+    <li>Xampp With PHP 7.3</li>
     <li><a href="https://getcomposer.org/" target="_blank">Composer</a></li>
 </ul>
 <br>
